@@ -2,7 +2,6 @@
   "name": "evcharge-finder",
   "version": "1.0.0",
   "description": "Elektrikli araç şarj istasyonu bulucu uygulaması - VOLTLA benzeri",
-  "type": "module",
   "main": "index.js",
   "scripts": {
     "dev": "vite",
